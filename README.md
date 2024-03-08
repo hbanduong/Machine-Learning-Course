@@ -1,4 +1,5 @@
 # Machine Learning Course
+This repository tracks my journey into Machine Learning, starting March 4th, 2024
 
 ## Contents
 - [Courses](#courses)
